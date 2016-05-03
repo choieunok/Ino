@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Apr 12 11:04:06 KST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SearchEver.jar
+manifest.mergeall=true
+manifest.mainclass=kr.co.exsoft.test.SearchFileEverage
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

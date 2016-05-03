@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+
+<eXrepApp>
+	
+
+	<PcName>ECMAgentGJ</PcName>
+	
+	<TestTime>
+		<Start>20160402</Start>
+		<End>20160417</End>
+	</TestTime>
+
+	<TestItem>
+		<Name>MemDump,ColorCal,EEPROM</Name>
+		<Extention></Extention>
+	</TestItem>
+
+
+		
+</eXrepApp>
